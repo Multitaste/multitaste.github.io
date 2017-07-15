@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1500112090,
+	"version": 1500125343,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,6 +26,10 @@
 		"images/battle_zone-sheet0.png",
 		"images/battle_zone_bot-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/battle_effects-sheet0.png",
+		"images/battle_effects-sheet1.png",
+		"media/hit.ogg",
+		"media/miss.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
