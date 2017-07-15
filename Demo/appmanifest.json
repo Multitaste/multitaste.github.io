@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Anims Demo",
-	"short_name": "Anims Demo",
+	"name": "Demo",
+	"short_name": "Demo",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
