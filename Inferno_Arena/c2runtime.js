@@ -29134,6 +29134,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Spriter.prototype.cnds.IsBoolInstanceVarSet,
 	cr.plugins_.Spriter.prototype.acts.SetInstanceVar,
 	cr.plugins_.Sprite.prototype.acts.SetAnim,
+	cr.plugins_.Spriter.prototype.cnds.CompareInstanceVar,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.plugins_.Sprite.prototype.acts.SetEffectParam,
 	cr.plugins_.Sprite.prototype.acts.SetPosToObject,
@@ -29153,7 +29154,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.Width,
 	cr.system_object.prototype.exps.dt,
 	cr.system_object.prototype.cnds.EveryTick,
-	cr.plugins_.Spriter.prototype.cnds.CompareInstanceVar,
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Spriter.prototype.acts.setAnimation,
 	cr.plugins_.Spriter.prototype.cnds.readyForSetup,
@@ -29208,7 +29208,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.SubVar,
 	cr.system_object.prototype.acts.AddVar,
 	cr.system_object.prototype.acts.GoToLayout,
-	cr.plugins_.sliderbar.prototype.acts.SetValue,
-	cr.plugins_.TextBox.prototype.acts.SetText
+	cr.plugins_.TextBox.prototype.acts.SetText,
+	cr.plugins_.sliderbar.prototype.acts.SetValue
 ];};
 

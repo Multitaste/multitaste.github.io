@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1500557800,
+	"version": 1500567616,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,7 @@
 		"images/player_player_head_4-sheet0.png",
 		"images/player_player_hair-sheet0.png",
 		"images/player_player_hair-sheet1.png",
+		"images/player_player_hair-sheet2.png",
 		"images/player_player_weapon-sheet0.png",
 		"images/player-sheet0.png",
 		"images/menu_arrow-sheet0.png",
