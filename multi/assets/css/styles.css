@@ -306,7 +306,14 @@ a.btn-cta {
   background-size: cover;
 }
 .hero-carousel .carousel-inner .item-3 {
-  background-image: url('../images/hero-3.jpg');
+  background-image: url('../images/hero-3.gif');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero-carousel .carousel-inner .item-4 {
+  background-image: url('../images/hero-4.png');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
